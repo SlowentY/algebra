@@ -1,0 +1,9 @@
+﻿  algebra.cpp
+E:\algebra\algebra.cpp(55,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\algebra\algebra.cpp(91,8): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+E:\algebra\algebra.cpp(138,8): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+E:\algebra\algebra.cpp(297,8): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+E:\algebra\algebra.cpp(422,7): warning C4101: c: неиспользованная локальная переменная
+E:\algebra\algebra.cpp(498,8): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+E:\algebra\algebra.cpp(744,9): warning C4101: a: неиспользованная локальная переменная
+  Project1.vcxproj -> E:\algebra\Project1\x64\Debug\Project1.exe

@@ -1,0 +1,15 @@
+﻿  algebra.cpp
+E:\algebra\algebra.cpp(91,8): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+E:\algebra\algebra.cpp(138,8): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+E:\algebra\algebra.cpp(297,8): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+E:\algebra\algebra.cpp(422,7): warning C4101: c: неиспользованная локальная переменная
+E:\algebra\algebra.cpp(498,8): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+E:\algebra\algebra.cpp(739,19): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\algebra\algebra.cpp(751,8): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\algebra\algebra.cpp(763,11): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\algebra\algebra.cpp(733,9): warning C4101: a: неиспользованная локальная переменная
+  zadach.cpp
+E:\algebra\zadach.cpp(16,7): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\algebra\zadach.cpp(23,9): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\algebra\zadach.cpp(28,8): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
